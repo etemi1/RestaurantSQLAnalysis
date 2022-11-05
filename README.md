@@ -63,7 +63,8 @@ Has earlier said, i created a table in postgres( all codes can be found in the d
 
 ### Average consumer rating per food service
 
-![Screenshot (131)](https://user-images.githubusercontent.com/41531796/200147525-c16b019e-a1da-4dc7-90e1-9c15e0127c2e.png)
+
+![Screenshot (132)](https://user-images.githubusercontent.com/41531796/200147553-ae21f178-13df-4cb9-b64b-d3895b936ff0.png)
 
 
 ### Average Consumer Rating based on services 
