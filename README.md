@@ -55,7 +55,8 @@ Has earlier said, i created a table in postgres( all codes can be found in the d
 ![Screenshot (122)](https://user-images.githubusercontent.com/41531796/200146035-5c94a571-cca5-484d-a7a1-f2d1f9eaff42.png)
 
 ### Orders per marital status
-![Screenshot (123)](https://user-images.githubusercontent.com/41531796/200146102-162df9b9-484a-48c0-b8eb-d3a70b4a50d2.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/41531796/200147625-b6c2326f-2839-4d60-976e-aa486bc9b578.png)
+
 
 ### Did consumers prefer restaurants with parking space?
 ![Screenshot (124)](https://user-images.githubusercontent.com/41531796/200146144-fbac397a-bce5-4151-98c3-301fee3fc71e.png)
