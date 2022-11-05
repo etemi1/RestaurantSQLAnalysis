@@ -26,48 +26,48 @@ I checked the total count of restaurants, i already used distinct to confirm tha
 Next i counted the total consumers, similarly to the restaurant id been unique, the consumer id is also unique in the consumer preview table
 ![Screenshot (112)](https://user-images.githubusercontent.com/41531796/200144715-8febc48f-79e0-49a1-83f3-1f29b7fc61b0.png)
 
-I checked the restaurant cuisine preview, this table shows the cuisine which is sort of like a menu that the restaurants had available, it was 23.
+### I checked the restaurant cuisine preview, this table shows the cuisine which is sort of like a menu that the restaurants had available, it was 23.
 ![Screenshot (113)](https://user-images.githubusercontent.com/41531796/200144964-dab2272a-6e11-4c73-9800-e0a775da7bce.png)
 
-I also checked the distinct cuisines preferred by consumers
+### I also checked the distinct cuisines preferred by consumers
 ![Screenshot (114)](https://user-images.githubusercontent.com/41531796/200145128-271bb0c3-760d-4b52-a6b5-610a90a30281.png)
 
-What's the Total Orders made by consumers? Here i assumed the ratings table was the orders made by consumers
+### What's the Total Orders made by consumers? Here i assumed the ratings table was the orders made by consumers
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/41531796/200145807-0113b1c2-bb76-4aad-9dc7-cbb4590f8bf6.png)
 
-What was the consumers choiced cuisines?
+### What was the consumers choiced cuisines?
 ![Screenshot (116)](https://user-images.githubusercontent.com/41531796/200145829-118c22dc-dee9-4587-9b6e-6d6a2a169d9a.png)
 
-What age group make more orders?
+### What age group make more orders?
 ![Screenshot (118)](https://user-images.githubusercontent.com/41531796/200145864-c9d9a88c-47a7-4822-a548-59bbd9230977.png)
 
-Cities with the most orders
+### Cities with the most orders
 ![Screenshot (119)](https://user-images.githubusercontent.com/41531796/200145902-a07a0c1f-fbdb-49cf-bfb8-e3fc6b89e980.png)
 
-What consumer occupation visits the most?
+### What consumer occupation visits the most?
 ![Screenshot (120)](https://user-images.githubusercontent.com/41531796/200145916-1632ee0b-14f5-4163-8a6f-d158a3fdf225.png)
 
-Orders per Consumers Budget
+### Orders per Consumers Budget
 ![Screenshot (121)](https://user-images.githubusercontent.com/41531796/200145995-b93c1371-0297-4313-85df-3e71584adb05.png)
 
-Lifestyle  of consumers, did smokers make the most orders?
+### Lifestyle  of consumers, did smokers make the most orders?
 ![Screenshot (122)](https://user-images.githubusercontent.com/41531796/200146035-5c94a571-cca5-484d-a7a1-f2d1f9eaff42.png)
 
-Orders per marital status
+### Orders per marital status
 ![Screenshot (123)](https://user-images.githubusercontent.com/41531796/200146102-162df9b9-484a-48c0-b8eb-d3a70b4a50d2.png)
 
-Did consumers prefer restaurants with parking space?
+### Did consumers prefer restaurants with parking space?
 ![Screenshot (124)](https://user-images.githubusercontent.com/41531796/200146144-fbac397a-bce5-4151-98c3-301fee3fc71e.png)
 
 
-Average consumer rating per alcohol service
+### Average consumer rating per alcohol service
 ![Screenshot (128)](https://user-images.githubusercontent.com/41531796/200146281-c4ce023a-8e9c-49c7-8d4e-fbb6d6c73c6e.png)
 
 
-Average Consumer Rating based on services 
+### Average Consumer Rating based on services 
 ![Screenshot (129)](https://user-images.githubusercontent.com/41531796/200146544-2bfce202-2e7d-4c2e-baa8-dbaa0e8fffa0.png)
 
 
-Average Overrall Ratings
+### Average Overrall Ratings
 ![Screenshot (130)](https://user-images.githubusercontent.com/41531796/200146573-63063b4a-718d-4b9d-adfa-5c4111c891bc.png)
