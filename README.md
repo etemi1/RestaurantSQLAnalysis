@@ -47,3 +47,18 @@ Cities with the most orders
 
 What consumer occupation visits the most?
 ![Screenshot (120)](https://user-images.githubusercontent.com/41531796/200145916-1632ee0b-14f5-4163-8a6f-d158a3fdf225.png)
+
+Orders per Consumers Budget
+![Screenshot (121)](https://user-images.githubusercontent.com/41531796/200145995-b93c1371-0297-4313-85df-3e71584adb05.png)
+
+Lifestyle  of consumers, did smokers make the most orders?
+![Screenshot (122)](https://user-images.githubusercontent.com/41531796/200146035-5c94a571-cca5-484d-a7a1-f2d1f9eaff42.png)
+
+Orders per marital status
+![Screenshot (123)](https://user-images.githubusercontent.com/41531796/200146102-162df9b9-484a-48c0-b8eb-d3a70b4a50d2.png)
+
+Did consumers prefer restaurants with parking space?
+![Screenshot (124)](https://user-images.githubusercontent.com/41531796/200146144-fbac397a-bce5-4151-98c3-301fee3fc71e.png)
+
+
+
