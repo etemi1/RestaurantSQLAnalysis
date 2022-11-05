@@ -20,10 +20,10 @@ I Downloaded all documents which was in csv format and loaded it on my Excel Wor
 Has earlier said, i created a table in postgres( all codes can be found in the document in this repo). In this code, i updated and changed all columns with nulls values to 'unknown'.
 
 # Data Analysis:
-I checked the total count of restaurants, i already used distinct to confirm that count and distinct count gave the same values that means each restaurant is unique,
+### I checked the total count of restaurants, i already used distinct to confirm that count and distinct count gave the same values that means each restaurant is unique,
 ![Screenshot (111)](https://user-images.githubusercontent.com/41531796/200144613-bce6ed4f-4499-48a7-89b8-ef82dfd565a2.png)
 
-Next i counted the total consumers, similarly to the restaurant id been unique, the consumer id is also unique in the consumer preview table
+### Next i counted the total consumers, similarly to the restaurant id been unique, the consumer id is also unique in the consumer preview table
 ![Screenshot (112)](https://user-images.githubusercontent.com/41531796/200144715-8febc48f-79e0-49a1-83f3-1f29b7fc61b0.png)
 
 ### I checked the restaurant cuisine preview, this table shows the cuisine which is sort of like a menu that the restaurants had available, it was 23.
@@ -71,3 +71,7 @@ Next i counted the total consumers, similarly to the restaurant id been unique, 
 
 ### Average Overrall Ratings
 ![Screenshot (130)](https://user-images.githubusercontent.com/41531796/200146573-63063b4a-718d-4b9d-adfa-5c4111c891bc.png)
+
+
+# DATA INSIGHTS
+
