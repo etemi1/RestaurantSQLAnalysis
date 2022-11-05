@@ -61,4 +61,13 @@ Did consumers prefer restaurants with parking space?
 ![Screenshot (124)](https://user-images.githubusercontent.com/41531796/200146144-fbac397a-bce5-4151-98c3-301fee3fc71e.png)
 
 
+Average consumer rating per alcohol service
+![Screenshot (128)](https://user-images.githubusercontent.com/41531796/200146281-c4ce023a-8e9c-49c7-8d4e-fbb6d6c73c6e.png)
 
+
+Average Consumer Rating based on services 
+![Screenshot (129)](https://user-images.githubusercontent.com/41531796/200146544-2bfce202-2e7d-4c2e-baa8-dbaa0e8fffa0.png)
+
+
+Average Overrall Ratings
+![Screenshot (130)](https://user-images.githubusercontent.com/41531796/200146573-63063b4a-718d-4b9d-adfa-5c4111c891bc.png)
