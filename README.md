@@ -74,4 +74,6 @@ Has earlier said, i created a table in postgres( all codes can be found in the d
 
 
 # DATA INSIGHTS
-
+1.  There are 130 Restaurants and 138 consumers in all restaurants 
+2.  All restaurants combined has 101 cuisines and consumers have a 23 preferred cuisines that they mostly order
+3.  
