@@ -28,3 +28,7 @@ Next i counted the total consumers, similarly to the restaurant id been unique, 
 
 I checked the restaurant cuisine preview, this table shows the cuisine which is sort of like a menu that the restaurants had available, it was 23.
 ![Screenshot (113)](https://user-images.githubusercontent.com/41531796/200144964-dab2272a-6e11-4c73-9800-e0a775da7bce.png)
+
+I also checked the distinct cuisines preferred by consumers
+![Screenshot (114)](https://user-images.githubusercontent.com/41531796/200145128-271bb0c3-760d-4b52-a6b5-610a90a30281.png)
+
