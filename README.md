@@ -32,3 +32,18 @@ I checked the restaurant cuisine preview, this table shows the cuisine which is 
 I also checked the distinct cuisines preferred by consumers
 ![Screenshot (114)](https://user-images.githubusercontent.com/41531796/200145128-271bb0c3-760d-4b52-a6b5-610a90a30281.png)
 
+What's the Total Orders made by consumers? Here i assumed the ratings table was the orders made by consumers
+
+![Screenshot (115)](https://user-images.githubusercontent.com/41531796/200145807-0113b1c2-bb76-4aad-9dc7-cbb4590f8bf6.png)
+
+What was the consumers choiced cuisines?
+![Screenshot (116)](https://user-images.githubusercontent.com/41531796/200145829-118c22dc-dee9-4587-9b6e-6d6a2a169d9a.png)
+
+What age group make more orders?
+![Screenshot (118)](https://user-images.githubusercontent.com/41531796/200145864-c9d9a88c-47a7-4822-a548-59bbd9230977.png)
+
+Cities with the most orders
+![Screenshot (119)](https://user-images.githubusercontent.com/41531796/200145902-a07a0c1f-fbdb-49cf-bfb8-e3fc6b89e980.png)
+
+What consumer occupation visits the most?
+![Screenshot (120)](https://user-images.githubusercontent.com/41531796/200145916-1632ee0b-14f5-4163-8a6f-d158a3fdf225.png)
