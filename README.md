@@ -76,4 +76,9 @@ Has earlier said, i created a table in postgres( all codes can be found in the d
 # DATA INSIGHTS
 1.  There are 130 Restaurants and 138 consumers in all restaurants 
 2.  All restaurants combined has 101 cuisines and consumers have a 23 preferred cuisines that they mostly order
-3.  
+3.  A total of 1161 orders has been made unfortunately the data didn't have date 
+4.  We can see that ages 21,23,22 make the most orders so i would like to assume that young people use the restaurants more as usually old people prefer to cook
+5.  The cities which consumers have the most orders is San luis Potosi,Cludad Victoria and Cuernavaca, most esepcially San Luis
+6.  It can be seen that most consumers are students especially and some employed consumers, this makes me think that there could be some form of bias in the data
+7.  Most times, consumers with medium budget most especially and some from low budget class usually make the most orders.
+8.  None smokers 
